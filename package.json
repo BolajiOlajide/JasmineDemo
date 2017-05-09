@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/andela-bolajide/JasmineDemo/issues"
   },
-  "homepage": "https://github.com/andela-bolajide/JasmineDemo#readme"
+  "homepage": "https://github.com/andela-bolajide/JasmineDemo#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
 }
