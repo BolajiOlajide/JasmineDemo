@@ -1,0 +1,25 @@
+{
+  "name": "jasmine-demo",
+  "version": "1.0.0",
+  "description": "A repository showing a simple application that utilizes Jasmine framework for testing.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "jasmine spec/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-bolajide/JasmineDemo.git"
+  },
+  "keywords": [
+    "jasmine",
+    "demo",
+    "javascript",
+    "tdd"
+  ],
+  "author": "Bolaji Olajide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andela-bolajide/JasmineDemo/issues"
+  },
+  "homepage": "https://github.com/andela-bolajide/JasmineDemo#readme"
+}
