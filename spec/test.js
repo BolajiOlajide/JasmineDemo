@@ -2,8 +2,6 @@
 
 const factorial = require('../app/index.js');
 
-console.log(factorial("kos"));
-
 
 describe("Test for normal values", function() {
     it("should return 120 for the argument, 5", function() {
